@@ -1,0 +1,6 @@
+127.0.0.1       localhost
+::1             ip6-localhost
+192.168.x.x     dev.parklotti.com
+
+#Edit 192.168.x.x to be your computers local ip address
+#WARNING: Keep a blank line at the end of this file!
