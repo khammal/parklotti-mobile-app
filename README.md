@@ -4,6 +4,9 @@
 
 ParkLotti is useful when you need to find cheap or free parking. Use our app to find parking near you!
 
+# Demo
+https://github.com/user-attachments/assets/7b84369b-31c3-4dd0-8033-bbd860db5e30
+
 # Install dependencies
 
 ```$ cd <project_root>```
